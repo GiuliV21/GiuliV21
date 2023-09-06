@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @GiuliV21
-- 👀 M e interesa la program cion y la base de datos
-- 🌱 I’m currently learning  mySql, full stack  python.
-- 💞️ I’m looking to collaborate on  cualquier ambito que sea fructifero, para mi y para la persona que tiene el problema. Por ejemplo hoy en dia me encuentro participanado en CET, donde estoy diseñando una app que ayude con una problematica social, elegi Educacion, porque soy Argentina y me afecta mucho la gran desercion de alumnos que hubo por la pandemia. Esto lo considero un proyecto fructifero para mi y para la sociedad. 
-
+- 👋 Hi, I'm @GiuliV21
+- 👀 I am interested in the programming and the database
+- 🌱I'm currently learning mySql, full stack python.
+- 💞️ I'm looking to collaborate in any field that is fruitful, for me and for the person who has the problem. For example, today I am participating in CET, where I am designing an app that helps with a social problem, I chose Education, because I am from Argentina and the great dropout of students that occurred due to the pandemic affects me a lot. I consider this a fruitful project for me and for society.
